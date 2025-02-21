@@ -25,13 +25,11 @@ const Navbar = () => {
             <span className="px-3" style={{fontSize:"1.5rem", color:"white"}}>Solve</span>
         </Link>
 
-        <Link href="/docs">
+        <Link href="https://github.com/SRodriguezIITH/ComputeX">
             <span className="px-3" style={{fontSize:"1.5rem", color:"white"}}>Docs</span>
         </Link>
 
-        <Link href="/about">
-            <span className="px-3" style={{fontSize:"1.5rem", color:"white"}}>About</span>
-        </Link>
+       
 
 
     </nav>

@@ -29,7 +29,7 @@ export default function Home() {
   const [loading, setLoading] = useState<boolean>(false);
   const [tool, setTool] = useState<"pen" | "eraser">("pen");
   const isMobile = useMediaQuery("(max-width: 768px)");
-  const [imageSrc, setImageSrc] = useState<string | null>(null);
+  
 
 
 
