@@ -18,7 +18,7 @@ import "@/app/globals.css";
 import { useMediaQuery } from "@mui/material";
 
 
-const baseURL = "http://127.0.0.1:5000";
+const baseURL = "https://computex-backend.vercel.app";
 
 
 

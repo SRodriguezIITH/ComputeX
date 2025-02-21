@@ -25,7 +25,7 @@ const Navbar = () => {
             <span className="px-3" style={{fontSize:"1.5rem", color:"white"}}>Solve</span>
         </Link>
 
-        <Link href="https://github.com/SRodriguezIITH/ComputeX">
+        <Link href="https://github.com/Aryan-Bodhe/Handwritten-Math-Equation-Solver">
             <span className="px-3" style={{fontSize:"1.5rem", color:"white"}}>Docs</span>
         </Link>
 
